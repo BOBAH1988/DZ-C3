@@ -57,3 +57,23 @@
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
+// int i = 1; 
+// Console.Write("Введите число N: ");
+// int N = Convert.ToInt32(Console.ReadLine());
+
+
+//  Циклом while:
+// while (i <= N)
+// {
+//     Console.WriteLine(Math.Pow(i,3));
+//     i++;
+// }
+
+
+// Циклом for:
+// Console.Write("Введите число N: ");
+// int N = Convert.ToInt32(Console.ReadLine());
+// for (int i = 1; i <= N; i++)
+// {
+//     Console.WriteLine(Math.Pow(i,3));
+// }
